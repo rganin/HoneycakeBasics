@@ -1,0 +1,8 @@
+{
+  "name": "me.honeycake.basics",
+  "displayName": "Honeycake Basics",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "Basic UI, Ads and configuration control components",
+  "category": "Unity"
+}
